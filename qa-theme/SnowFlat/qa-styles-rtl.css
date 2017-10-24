@@ -150,6 +150,10 @@ h1 {
 	margin: 0 0 0 10px;
 }
 
+.qa-page-links-list, .qa-page-links-label, .qa-page-links-item, .qa-page-links-item a, .qa-page-links-item a:hover, .qa-page-links-item a:focus {
+    float: right;
+}
+
 .qa-q-list-item.qa-q-favorited {
 	border-right: 1px solid #8e44ad;
 }
